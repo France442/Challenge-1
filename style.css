@@ -125,7 +125,7 @@
     height: 600px;
      display: grid;
      grid-template-columns: 1fr 1fr;
-      width: 700px;
+      width: 600px;
       border-radius: 20px;
       background-color: white;
    }
