@@ -2,7 +2,7 @@
 .attribution { 
     font-size: 11px; 
     text-align: center;
-    margin-top: 30px;
+    margin-top: 5px;
  }
 
 .attribution a { 
@@ -21,7 +21,7 @@
 
  .body1{
   background-color: white;
-  height: 700px;
+  height: 670px;
   border-radius: 20px;
   width: fit-content;
   display: flex;
@@ -50,7 +50,7 @@
  .content{
    width: 250px;
    display: flex;
-   padding: 10px 30px 30px 30px;
+   padding: 5px 30px 30px 30px;
    flex-direction: column;
    align-self: center;
  }
