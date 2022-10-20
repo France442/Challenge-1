@@ -59,7 +59,9 @@ footer {
    font-family: 'Fraunces', serif;
  }
 
- #desk-pic{
+ img{
+    display: block;
+    max-width: 100%;
     width: 350px;
     height: 270px;
     border-top-left-radius: 20px;
@@ -102,7 +104,9 @@ footer {
  }
 
 @media (min-width: 1024px) {
-#desk-pic{
+img{
+  display: block; 
+  max-width: 100%;
   border-top-left-radius: 20px;
   border-top-right-radius: 0;
   border-bottom-left-radius: 20px;
